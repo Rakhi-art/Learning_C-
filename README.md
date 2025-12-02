@@ -71,8 +71,4 @@ If you have suggestions or want to add beginner-friendly programs, feel free to 
 
 ---
 
-If you want, I can also:
-✅ make a **better advanced README**,
-✅ add **badges**,
-✅ add **folder structure**,
-✅ create a **GitHub Pages portfolio for your C++ journey**.
+
